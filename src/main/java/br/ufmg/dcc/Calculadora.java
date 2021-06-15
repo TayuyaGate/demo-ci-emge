@@ -1,4 +1,3 @@
---- a/src/main/java/br/ufmg/dcc/Calculadora.java
 +++ b/src/main/java/br/ufmg/dcc/Calculadora.java
 package br.ufmg.dcc;
 
